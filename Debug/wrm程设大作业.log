@@ -1,0 +1,41 @@
+﻿  源.cpp
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(37,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(151,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(156,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(162,6): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(170,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(171,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(209,10): warning C4018: “<=”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(209,54): warning C4018: “>=”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(198,12): warning C4101: “k”: 未引用的局部变量
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(232,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(253,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(268,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(288,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(314,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(347,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(354,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(383,10): warning C4018: “<=”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(383,54): warning C4018: “>=”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(387,17): warning C4018: “>”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(394,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(399,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(401,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(406,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(446,30): warning C4018: “>”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(446,61): warning C4018: “>”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(464,17): warning C4018: “>”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(472,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(477,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(485,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(492,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(437,8): warning C4101: “f”: 未引用的局部变量
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(519,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(524,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(526,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(532,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(534,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(553,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(638,7): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\保研材料\作品集\wrm程设大作业\wrm程设大作业\源.cpp(842,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  wrm程设大作业.vcxproj -> D:\保研材料\作品集\wrm程设大作业\Debug\wrm程设大作业.exe
