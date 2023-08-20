@@ -1,16 +1,16 @@
-±¾³ÌĞòÖ§³ÖÖĞÎÄ»òÓ¢ÎÄÊäÈë£¬²ÉÓÃANSI±àÂë
-Ã¿Ò³×î¶à25ĞĞ£¨¿ÉÉÏÏÂ·­Ò³£©£¬ÄÜÏÔÊ¾Êı×éÖĞÇ°50ÁĞµÄÄÚÈİ
-°´¼üËµÃ÷£º
-´ò¿ª£º´ò¿ªÒ»¸öÒÑ¾­´æÔÚµÄÎÄ¼ş
-ĞÂ½¨£ºĞÂ½¨Ò»¸öÎÄ¼ş
-±£´æ£º±£´æÎÄ¼ş£¬ÊäÈë´æ´¢Â·¾¶ÄÜ½øĞĞÁí´æÎª²Ù×÷
-²éÕÒ£º²éÕÒÄãÏëÒªµÄ×Ö·û´®£¬ÄÜÏÔÊ¾Æä³öÏÖ´ÎÊı
-Ìæ»»£ºÖ¸¶¨×Ö·û´®£¬ÊäÈëĞÂÄÚÈİ½øĞĞÈ«¾ÖÌæ»»
-±à¼­£ºÊäÈëabcdeÄÜ´¥·¢ÏàÓ¦µÄÎå¸ö¹¦ÄÜ
-a£ºÓÃ»§ÊäÈë×Ö·û´®£¬È»ºó¸²¸ÇÖ¸¶¨ĞĞ
-b£ºÉ¾³ıÖ¸¶¨ĞĞ
-c£ºÔÚÄ³ĞĞºóÌí¼ÓĞÂĞĞ
-d£ºÒÆ¶¯Ä³ĞĞ»òÄ³¼¸ĞĞµ½ÆäËûĞĞ£¨Ò»´Î¶¯Ò»ĞĞ£©
-e£ºĞŞ¸ÄÄ³ĞĞÖ¸¶¨Ä³ÁĞµ½Ä³ÁĞµÄÄÚÈİ
-ÉÏ·­¡¢ÏÂ·­£ºÒ»´Î·­25ĞĞ£¨Ò»Ò³£©
-ÏÔÊ¾£ºÊäÈëĞĞºÅ£¬¼´¿ÉÖ»ÏÔÊ¾¸Ã·¶Î§ÄÚµÄÄÚÈİ
+æœ¬ç¨‹åºæ”¯æŒä¸­æ–‡æˆ–è‹±æ–‡è¾“å…¥ï¼Œé‡‡ç”¨ANSIç¼–ç /This program supports input in both Chinese and English and uses ANSI encoding.
+æ¯é¡µæœ€å¤š25è¡Œï¼ˆå¯ä¸Šä¸‹ç¿»é¡µï¼‰ï¼Œèƒ½æ˜¾ç¤ºæ•°ç»„ä¸­å‰50åˆ—çš„å†…å®¹/A maximum of 25 lines per page (scrollable), capable of displaying the contents of the first 50 columns in an array.
+æŒ‰é”®è¯´æ˜ï¼š/Key Instructions:
+æ‰“å¼€/openï¼šæ‰“å¼€ä¸€ä¸ªå·²ç»å­˜åœ¨çš„æ–‡ä»¶/Open an existing file
+æ–°å»º/createï¼šæ–°å»ºä¸€ä¸ªæ–‡ä»¶/Create a new file
+ä¿å­˜/saveï¼šä¿å­˜æ–‡ä»¶ï¼Œè¾“å…¥å­˜å‚¨è·¯å¾„èƒ½è¿›è¡Œå¦å­˜ä¸ºæ“ä½œ/Save the file; entering a storage path allows for a "Save As" operation.
+æŸ¥æ‰¾/searchï¼šæŸ¥æ‰¾ä½ æƒ³è¦çš„å­—ç¬¦ä¸²ï¼Œèƒ½æ˜¾ç¤ºå…¶å‡ºç°æ¬¡æ•°/Search for the desired string; it will display the number of occurrences.
+æ›¿æ¢/replaceï¼šæŒ‡å®šå­—ç¬¦ä¸²ï¼Œè¾“å…¥æ–°å†…å®¹è¿›è¡Œå…¨å±€æ›¿æ¢/Specify the string and enter the new content for global replacement.
+ç¼–è¾‘/editï¼šè¾“å…¥abcdeèƒ½è§¦å‘ç›¸åº”çš„äº”ä¸ªåŠŸèƒ½/Typing "abcde" will trigger the respective five functions.
+aï¼šç”¨æˆ·è¾“å…¥å­—ç¬¦ä¸²ï¼Œç„¶åè¦†ç›–æŒ‡å®šè¡Œ/The user inputs a string, then it overrides the specified line.
+bï¼šåˆ é™¤æŒ‡å®šè¡Œ/Delete the specified line.
+cï¼šåœ¨æŸè¡Œåæ·»åŠ æ–°è¡Œ/Add a new line after a specific line.
+dï¼šç§»åŠ¨æŸè¡Œæˆ–æŸå‡ è¡Œåˆ°å…¶ä»–è¡Œï¼ˆä¸€æ¬¡åŠ¨ä¸€è¡Œï¼‰/Move a line or multiple lines to another line (one line at a time).
+eï¼šä¿®æ”¹æŸè¡ŒæŒ‡å®šæŸåˆ—åˆ°æŸåˆ—çš„å†…å®¹/Modify the content of a specific column in a certain line.
+ä¸Šç¿»/scroll upã€ä¸‹ç¿»/scrollï¼šä¸€æ¬¡ç¿»25è¡Œï¼ˆä¸€é¡µï¼‰/Flip 25 lines at a time (one page).
+æ˜¾ç¤º/displayï¼šè¾“å…¥è¡Œå·ï¼Œå³å¯åªæ˜¾ç¤ºè¯¥èŒƒå›´å†…çš„å†…å®¹/Enter the line number to display only the content within that range.
